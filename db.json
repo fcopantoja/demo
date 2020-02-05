@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "campaign": {
+    "id": 5678363789373,
+    "name": "Campaign Name"
   }
 }
